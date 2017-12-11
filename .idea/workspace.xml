@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f446d108-c15d-4337-98b0-3a18e0845583" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/redischool/repositories/ScheduleRepository.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/org/redischool/models/Assignment.class" afterPath="$PROJECT_DIR$/out/production/classes/org/redischool/models/Assignment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/org/redischool/models/Employee$EmployeeBuilder.class" afterPath="$PROJECT_DIR$/out/production/classes/org/redischool/models/Employee$EmployeeBuilder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/org/redischool/models/Employee.class" afterPath="$PROJECT_DIR$/out/production/classes/org/redischool/models/Employee.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/org/redischool/models/Language.class" afterPath="$PROJECT_DIR$/out/production/classes/org/redischool/models/Language.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/org/redischool/models/Schedule.class" afterPath="$PROJECT_DIR$/out/production/classes/org/redischool/models/Schedule.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/org/redischool/repositories/EmployeeRepository.class" afterPath="$PROJECT_DIR$/out/production/classes/org/redischool/repositories/EmployeeRepository.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/org/redischool/services/EmployeeService.class" afterPath="$PROJECT_DIR$/out/production/classes/org/redischool/services/EmployeeService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/classes/org/redi/services/EmployeeServiceTest.class" afterPath="$PROJECT_DIR$/out/test/classes/org/redi/services/EmployeeServiceTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/classes/org/redischool/repositories/LanguageRepositoryTest.class" afterPath="$PROJECT_DIR$/out/test/classes/org/redischool/repositories/LanguageRepositoryTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/redischool/models/Assignment.java" afterPath="$PROJECT_DIR$/src/main/java/org/redischool/models/Assignment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/redischool/models/Employee.java" afterPath="$PROJECT_DIR$/src/main/java/org/redischool/models/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/redischool/models/Schedule.java" afterPath="$PROJECT_DIR$/src/main/java/org/redischool/models/Schedule.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/redischool/repositories/EmployeeRepository.java" afterPath="$PROJECT_DIR$/src/main/java/org/redischool/repositories/EmployeeRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/redischool/services/EmployeeService.java" afterPath="$PROJECT_DIR$/src/main/java/org/redischool/services/EmployeeService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/org/redi/services/EmployeeServiceTest.java" afterPath="$PROJECT_DIR$/src/test/java/org/redi/services/EmployeeServiceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/org/redischool/repositories/LanguageRepositoryTest.java" afterPath="$PROJECT_DIR$/src/test/java/org/redischool/repositories/LanguageRepositoryTest.java" />
-    </list>
+    <list default="true" id="f446d108-c15d-4337-98b0-3a18e0845583" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -151,7 +132,7 @@
       <file leaf-file-name="EmployeeRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/redischool/repositories/EmployeeRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="162">
               <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -1449,7 +1430,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/redischool/repositories/EmployeeRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="162">
           <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
