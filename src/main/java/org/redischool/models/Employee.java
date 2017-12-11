@@ -38,4 +38,7 @@ public class Employee {
             joinColumns = {@JoinColumn(name = "EMPLOYEE_ID")},
             inverseJoinColumns = {@JoinColumn(name = "LANGUAGE_ID")})
     private Set<Language> languages;
+
+    @OneToMany(fetch = FetchType.LAZY, mappedBy = "employee")
+    private Set<Schedule> schedules;
 }
